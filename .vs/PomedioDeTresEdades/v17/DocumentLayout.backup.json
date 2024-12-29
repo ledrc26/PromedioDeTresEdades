@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YaPasados\\PomedioDeTresEdades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32FA43B8-2EDA-4C73-B20B-0E3829743C8E}|PomedioDeTresEdades.vcxproj|D:\\YaPasados\\PomedioDeTresEdades\\PromedioDeTresEdades.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32FA43B8-2EDA-4C73-B20B-0E3829743C8E}|PomedioDeTresEdades.vcxproj|solutionrelative:PromedioDeTresEdades.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromedioDeTresEdades.cpp",
+              "DocumentMoniker": "D:\\YaPasados\\PomedioDeTresEdades\\PromedioDeTresEdades.cpp",
+              "RelativeDocumentMoniker": "PromedioDeTresEdades.cpp",
+              "ToolTip": "D:\\YaPasados\\PomedioDeTresEdades\\PromedioDeTresEdades.cpp",
+              "RelativeToolTip": "PromedioDeTresEdades.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T04:09:48.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
